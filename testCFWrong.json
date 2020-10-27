@@ -1,0 +1,8 @@
+{
+    "build":"javac C2FWrong.java",    
+    "cmd":"java C2FWrong",
+    "cases":[
+	{"name":"-40C", "in":"neg40in.txt", "expected":"neg40expected.txt"},
+        {"name":"100C", "in":"100in.txt", "expected":"100expected.txt"}
+    ]
+}

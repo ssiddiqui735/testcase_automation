@@ -1,0 +1,6 @@
+{
+    "cmd":"python runtest.py",
+    "cases":[{"name":"run testHello", "args":"testHello.json", "expected":"runtestHello.out"},
+	     {"name":"run testCF", "args":"testCF.json", "expected":"runtestCF.out"}
+    ]
+}
